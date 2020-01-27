@@ -8,3 +8,8 @@ Screenshots
 ![Test Image 3](https://github.com/mrmohim/Learning-Fruits-Application/blob/master/screenshots/Screenshot%20(3).png)
 ![Test Image 4](https://github.com/mrmohim/Learning-Fruits-Application/blob/master/screenshots/Screenshot%20(4).png)
 ![Test Image 5](https://github.com/mrmohim/Learning-Fruits-Application/blob/master/screenshots/Screenshot%20(5).png)
+
+Note
+---------
+
+**IF YOU FIND ANY SEVERE BUGS PLEASE KINDLY [PULL REQUEST](https://github.com/mrmohim/Learning-Fruits-Application/pulls).**
